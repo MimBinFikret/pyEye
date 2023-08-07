@@ -29,4 +29,4 @@ Herhangi bir sorunuz, öneriniz veya katkınız varsa, lütfen bir [Pull Talebi]
 
 ## Lisans
 
-Bu proje T1 Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
+Bu proje T1 Lisansı altında lisanslanmıştır. Detaylı bilgi için şahsıma mail ile ulaşabilirsiniz.
